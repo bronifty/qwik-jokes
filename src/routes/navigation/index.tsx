@@ -34,7 +34,13 @@ export default component$(() => {
   const nav = useNavigate();
   return (
     <div>
-      <Link href="/about">About (prefered)</Link>
+      <div>
+        <Link href="about">About</Link>
+      </div>
+      <br />
+      <div>
+        <Link href="test#test">Test</Link>
+      </div>
       <button onClick$={() => nav("about")}>About</button>
     </div>
   );

@@ -20,8 +20,201 @@ export default component$(() => {
     <div>
       <Link reload>Refresh (better accesibility)</Link>
       <button onClick$={() => nav()}>Refresh</button>
-      <p>Server time: {serverTime.value}</p>
+      <p id="server-time">Server time: {serverTime.value}</p>
       <p>Send me location: {loc.isNavigating ? "true" : "false"}</p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt odio
+        qui reiciendis placeat assumenda. Facere, repudiandae optio, quisquam
+        incidunt cupiditate magnam consequatur iure itaque eligendi quibusdam
+        possimus nobis ratione perferendis.
+      </p>
+      <p id="test">test</p>
     </div>
   );
 });
